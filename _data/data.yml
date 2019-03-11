@@ -65,7 +65,9 @@ education:
          
 experiences:
     - role: Kitchen
-      time: 2017,2018,2019
+      time: 2017
+            2018   
+            2019
       company: McDonald's
       details: |
        I was working at McDonald's kitchen for summer job. My job was to service the customer .

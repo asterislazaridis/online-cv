@@ -47,7 +47,7 @@ career-profile:
       My name is Asteris Lazaridis and i am 21 years old. I am a student in Ionian University. I really love to work in group with
       other people that have the same passions as me . I think that everything is possible in this life if you set your goals and 
       try everyday for them . My moto for life is no pain no gain
-      Second paragraph if required.
+      
 
 education:
     - degree: Bsc in Department of Informatics
@@ -72,8 +72,13 @@ experiences:
       details: |
        I was working at McDonald's kitchen for summer job. My job was to service the customer .
        I decided to work because i want to help my parents with our expenditures
-        
-
+    - role : Barista
+    - time 2016-2017 
+      company : Coffe island
+      details: |
+      I was working at Coffee Island company for about a year . My job was to make coffes . I trained
+      by the standars of the company . I decided to work because i really love to make people happy and what's better
+      than a good cup of coffee
  
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
